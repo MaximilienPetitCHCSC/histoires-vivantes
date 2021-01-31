@@ -15,7 +15,7 @@ organizations:
     url: http://www.chcsc.uvsq.fr/
 superuser: true
 user_groups:
-  - Researchers
+  - En charge du projet
 Cursus:
   courses:
     - course: PhD in Artificial Intelligence
