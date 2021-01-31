@@ -5,10 +5,10 @@
 name = "Native"
 
 # Optional Google font URL
-google_fonts = "family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400"
+google_fonts = "family=Open+Sans:wght@400;700"
 
 # Font families
-heading_font = ""
-body_font = ""
-nav_font = ""
-mono_font = ""
+heading_font = "Open Sans"
+body_font = "Open Sans"
+nav_font = "Open Sans"
+mono_font = "Open Sans"
