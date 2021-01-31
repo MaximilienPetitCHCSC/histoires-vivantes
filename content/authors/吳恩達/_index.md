@@ -1,75 +1,26 @@
 ---
-# Display name
-title: 吳恩達
-
-# Username (this should match the folder name)
-authors:
-- 吳恩達
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - name: CHCSC/DYPAC
+    url: http://www.dypac.uvsq.fr/
+superuser: false
+authors:
+  - 吳恩達
+title: Marina Imocrante
+role: Chargée de valorisation scientifique aux Laboratoires DYPAC et CHCSC
+bio: ""
+interests: []
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:marina.imocrante@uvsq.fr
+education:
+  courses: []
 email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+  - En charge du projet
 ---
+Marina Imocrante a soutenu sa thèse en philosophie à l’Université Vita-Salute San Raffaele de Milan (Italie) en juillet 2017, en cotutelle avec l’Université Paris 1 Panthéon-Sorbonne (contrat doctoral de l’Université Vita-Salute de 2013 à 2016 ; titre de la thèse : « Which Epistemology for Applied Mathematics ? From Classical Debates to Structural Accounts »). 
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+De 2017 à 2019, elle est chargée d’enseignement à l’Université Paris 1, puis à Sorbonne Université. En 2018, elle s’occupe du secrétariat et de la gestion financière du budget universitaire de l’Institut d’Histoire et Philosophie des Sciences et de Techniques (IHPST – UMR 8590), ainsi que du support aux chercheurs de l’Unité pour le montage de projets et l’organisation de manifestations scientifiques. En 2019 elle est post-doc à l’IHPST avec un projet sur le changement conceptuel en mathématiques financé par l’Université Franco Italienne (UFI) en collaboration avec le IUSS Center for Neurocognition, Epistemology and Theoretical Syntax de Pavie. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Depuis janvier 2020, Marina Imocrante est chargée de valorisation scientifique au DYPAC et au CHCSC de l’Université de Versailles Saint-Quentin-en-Yvelines, où elle assure la veille, le montage et le suivi de projets pour les équipes des deux laboratoires.
