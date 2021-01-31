@@ -4,7 +4,7 @@ organizations:
     url: http://www.dypac.uvsq.fr/
 superuser: false
 authors:
-  - 吳恩達
+  - Marina Imocrante
 title: Marina Imocrante
 role: Chargée de valorisation scientifique aux Laboratoires DYPAC et CHCSC
 bio: ""
@@ -14,7 +14,7 @@ social:
     icon_pack: fas
     link: mailto:marina.imocrante@uvsq.fr
 education:
-  courses: []
+  courses: 
 email: ""
 user_groups:
   - En charge du projet
