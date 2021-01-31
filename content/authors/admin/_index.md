@@ -1,7 +1,7 @@
 ---
 title: Maximilien Petit
 role: Chargé des ressources documentaires CHCSC
-avatar_filename: mp.JPG
+avatar_filename: avatar.jpg
 bio: Administrateur du site Histoires Vivantes.
 social:
   - icon: envelope
@@ -18,19 +18,7 @@ user_groups:
   - En charge du projet
 Cursus:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 Thèmes de recherche:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 highlight_name: false
 email: ""
 ---
