@@ -1,27 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Maximilien Petit
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Chargé des ressources documentaires CHCSC
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: CHCSC
+  url: "http://www.chcsc.uvsq.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Administrateur du site Histoires Vivantes.
 
-interests:
+Thèmes de recherche :
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 
-education:
+Cursus:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
@@ -40,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:maximilien.petit@uvsq.fr'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/PetitMaximilie1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +68,4 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Maximilien Petit, ingénieur d'études, exerce en tant que chargé des ressources documentaires au sein du labortaoire Centre d'histoire culturelle des sociétés contemporaines (CHCSC). Responsable de la bibliothèque du laboratoire, il anime également des formations doctorales au sein de l'Université Paris-Saclay sur les thématiques des données de la recherche, des archives ouvertes et des outils de la veille. Maximilien Petit accompagne le montage des projets scientifiques à propos du stockage, de la sauvegarde, de la description, du signalement et de la diffusion des données.
