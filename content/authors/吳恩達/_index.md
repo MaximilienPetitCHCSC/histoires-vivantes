@@ -1,23 +1,26 @@
 ---
-organizations:
-  - name: CHCSC/DYPAC
-    url: http://www.dypac.uvsq.fr/
-superuser: false
-authors:
-  - Marina Imocrante
 title: Marina Imocrante
 role: Chargée de valorisation scientifique aux Laboratoires DYPAC et CHCSC
-bio: ""
-interests: []
+avatar_filename: avatar.jpg
+bio: Chargée de valorisation d'Histoires Vivantes
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:marina.imocrante@uvsq.fr
-education:
-  courses: 
-email: ""
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/chcscuvsq?lang=fr
+organizations:
+  - name: CHCSC
+    url: http://www.chcsc.uvsq.fr/
+superuser: false
 user_groups:
   - En charge du projet
+Cursus:
+  courses:
+Thèmes de recherche:
+highlight_name: false
+email: ""
 ---
 Marina Imocrante a soutenu sa thèse en philosophie à l’Université Vita-Salute San Raffaele de Milan (Italie) en juillet 2017, en cotutelle avec l’Université Paris 1 Panthéon-Sorbonne (contrat doctoral de l’Université Vita-Salute de 2013 à 2016 ; titre de la thèse : « Which Epistemology for Applied Mathematics ? From Classical Debates to Structural Accounts »). 
 
