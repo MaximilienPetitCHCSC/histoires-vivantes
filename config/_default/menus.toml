@@ -9,12 +9,12 @@
 #  weight = 10
 
 [[main]]
-  name = "News"
+  name = "Actualités"
   url = "post"
   weight = 20
 
 [[main]]
-  name = "People"
+  name = "Contributeurs"
   url = "people"
   weight = 30
 
