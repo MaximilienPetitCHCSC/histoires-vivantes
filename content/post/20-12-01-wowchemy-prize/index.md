@@ -1,14 +1,11 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: "L'illustration en questions : l'Europe des revues"
 date: 2020-12-01
 ---
+Ainsi, grâce au soutien de la School Humanités, un prototype (correspondant à un « grain ») a été réalisé pour mettre en valeur les principes du projet. Le comité de pilotage a travaillé avec l'équipe de [Peech Studio](https://www.peechstudio.com/), de septembre 2017 à juin 2018, pour créer la vidéo que vous pouvez visionner ci-dessous. Celle-ci se déroule dans les locaux de la Bibliothèque Historique de la Ville de Paris ([BHVP](https://www.paris.fr/equipements/bibliotheque-historique-de-la-ville-de-paris-bhvp-16)), partenaire du projet, qui met également à disposition les ouvrages précieux mis en lumière dans ce « grain » intitulé *L'illustration en questions : l'Europe des revues*.
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Ce prototype contribue ainsi à la visibilité du CHCSC et met en valeur sa pluridisciplinarité. La participation de plusieurs jeunes chercheurs à sa réalisation, notamment Vincent Gogibu, doctorant du CHCSC sur cette thématique, est à noter.
 
-<!--more-->
+Il est à signaler aussi que la réalisation de l’épisode pilote a coïncidé avec la publication d’un ouvrage de référence sur la question : Evanghélia Stead et Hélène Védrine (dir.), *L’Europe des revues II : réseaux et circulations des modèles*, Paris, PUPS, 2018.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
-
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rGdZ2WA3DWk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
