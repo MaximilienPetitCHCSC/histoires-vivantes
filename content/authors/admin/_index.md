@@ -1,7 +1,7 @@
 ---
 title: Maximilien Petit
 role: Chargé des ressources documentaires CHCSC
-avatar_filename: https://sharedocs.huma-num.fr/wl/?id=aQx4LCyIAZkVonQ7qrslBD73aHpvGBNY
+avatar_filename: mp.JPG
 bio: Administrateur du site Histoires Vivantes.
 social:
   - icon: envelope
