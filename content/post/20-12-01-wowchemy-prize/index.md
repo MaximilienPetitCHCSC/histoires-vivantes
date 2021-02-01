@@ -1,6 +1,6 @@
 ---
 title: "L'illustration en questions : l'Europe des revues"
-date: 2020-12-01
+date: 2021-02-01T08:35:55.300Z
 ---
 Ainsi, grâce au soutien de la School Humanités, un prototype (correspondant à un « grain ») a été réalisé pour mettre en valeur les principes du projet. Le comité de pilotage a travaillé avec l'équipe de [Peech Studio](https://www.peechstudio.com/), de septembre 2017 à juin 2018, pour créer la vidéo que vous pouvez visionner ci-dessous. Celle-ci se déroule dans les locaux de la Bibliothèque Historique de la Ville de Paris ([BHVP](https://www.paris.fr/equipements/bibliotheque-historique-de-la-ville-de-paris-bhvp-16)), partenaire du projet, qui met également à disposition les ouvrages précieux mis en lumière dans ce « grain » intitulé *L'illustration en questions : l'Europe des revues*.
 
