@@ -1,6 +1,6 @@
 ---
 title: L'illustration pédagogique et la diffusion des connaissances au XIXe siècle
-date: 2020-12-02
+date: 2021-02-01T08:36:09.149Z
 ---
 Le projet étant en cours d'élaboration, nous publions également, à la suite de l'épisode pilote, une contribution de Jean-Charles Geslot : *L'illustration pédagogique et la diffusion des connaissances au XIXe siècle*.
 
